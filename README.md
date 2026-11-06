@@ -19,11 +19,12 @@ This project focuses on analyzing sales performance using Power BI. It provides 
 - Sales by Product Name
 - Interactive Year and Region Slicers
 
-## Dashboard Screenshot
-Add your Power BI dashboard screenshot here.
+## Dashboard Preview
+
+![Sales Trend Analysis Dashboard](Sales-Dashboard.png)
 
 ## Internship
 CodTech Data Analytics Internship
 
 ## Intern ID
-[Add your CodTech InternID here]
+[CITS9803]
